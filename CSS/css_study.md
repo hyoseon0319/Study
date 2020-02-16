@@ -16,7 +16,7 @@
 
 ## 1-2 CSS 스타일 시트 구성 
 
-####스타일 시트 (style sheet) : css로 작성된 코드 
+#### 스타일 시트 (style sheet) : css로 작성된 코드 
 - 선택자와 같은 이름의 모든 HTML 태그에 스타일 시트가 적용됨
 ```
 선택자(selector) {프로퍼티(property):값(value); (; 는 구분자)}
@@ -149,7 +149,7 @@ CSS는 같은 속성을 여러 번 정의했을 때, 나중에 설정한 값이 
 
 
 ## 1-5 색, 텍스트, 폰트
-####색
+#### 색
 - CSS 에서 색은 RGB, RGBS, HSL
 ```
 style = "color:red;" : 컬러명
@@ -157,7 +157,7 @@ style="color:rgb(red,green,blue)" : rgb값
 style="color: #ff0000;" : hex(=16진수) / 2글자씩 각각 r,g,b를 뜻함
 ```
 
-####텍스트
+#### 텍스트
 - CSS3로 들여쓰기(text-indent), 정렬(text-align), 텍스트 꾸미기(text-decoration) 가능
 - CSS 폰트와 텍스트
 ```
@@ -172,7 +172,7 @@ text-decoration: overline; /* 윗줄 */
 text-decoration: line-through; /* 중간 줄 */ 
 text-decoration: none; /* 밑줄 없음 */
 ```
-####폰트
+#### 폰트
 
 ```
 font-family : 폰트체 이름 
