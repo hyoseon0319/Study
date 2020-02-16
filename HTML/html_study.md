@@ -197,12 +197,8 @@ td : 데이터 셀
 - HTML 파일과 다른 HTML 파일을 이어줍니다.
 - href 라는 속성이 자동으로 들어가는 것을 보면 a태그는 상당히 필수적이다.    	
 - 	<p>a 태그는 HTML 파일과 다른 HTML 파일을 이어줍니다.</p>
-    <a href="lab05_tag.html">다른 HTML 파일과 연결</a><br>
-    <a href="lab01_test.html">lab01 파일과 연결</a><br>
-    <a href="lab02_test.html">lab02 파일과 연결</a><br>
-    <a href="lab03_basic.html">lab03 파일과 연결</a><br>
-    <a href="lab04_block_inline.html">lab04 파일과 연결</a><br>
-
+    <a href="https://hyoseon0319.github.io/web_dev/02.css/ex01_basic(blank)/ex01_basic(blank).html">다른 HTML 파일과 연결</a><br>
+    
 
 #### 앵커 연결
     
