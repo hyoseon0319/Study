@@ -213,8 +213,8 @@ margin(여백) : 박스의 맨 바깥 영역, 테두리 바깥 공간으로 아�
 **박스의 크기 제어**
 width (가로 폭) , height (세로 폭) , margin (여백), padding
 
-- | contents | padding | border | margin |
-- |---|:---:|---:|---:
+@ | contents | padding | border | margin |
+@ |---|:---:|---:|---:
 `크기` | width, height | padding-top, padding-right, padding-bottom, padding-left|border-top-width, border-right-width, border-bottom-width, border-left-width | margin-top, margin-right, margin-bottom, margin-left 
 `크기 단축` | - | padding | border-width | margin
 `스타일` | - | - | border-top-style, border-right-style, border-bottom-style, border-left-style | - 
