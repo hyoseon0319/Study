@@ -1,6 +1,8 @@
 ### Visual code
 [Visual code 단축키](https://demun.github.io/vscode-tutorial/shortcuts/)
 
+### GitHub 관련 링크
+[완전 초보를 위한 깃허브](https://nolboo.kim/blog/2013/10/06/github-for-beginner/)
 
 ### Html 관련 링크
 [w3shools tuorial](https://www.w3schools.com/)
