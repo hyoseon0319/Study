@@ -269,7 +269,7 @@ ex) 50% 지정해주면 이미지가 2장만 나옴(20%면 5장의 이미지 출
 
 * 상속 : 부모 요소가 가지고 있던 특성들 중에 일부분은 자식 요소에게 전달된다.
 
-***tip***. CSS 로 표의 테두리를 설정 할 때 표의 바깥 테두리와 셀의 테두리를 따로 지정해야함
+***tip*** CSS 로 표의 테두리를 설정 할 때 표의 바깥 테두리와 셀의 테두리를 따로 지정해야함
 
 ```
 HTML
@@ -306,21 +306,22 @@ CSS
 list-style-type: none; // 아무런 장식 보여주지 않음 
 
 **1. ul 요소에 어울리는 값**
-
+```
 list-style-type: disc; // ●  (ul 요소의 기본 값)
 list-style-type: circle; // ○
 list-style-type: square; // ■ 
+```
 
 **2. ol 요소에 어울리는 값**
 
-list-style-type: decimal; // 숫자 1.2.3.
-  => 순서없는 리스트의 모양을 순서로 바꿔줌 
+list-style-type: decimal; // 숫자 1.2.3.   
+  => 순서없는 리스트의 모양을 순서로 바꿔줌    
 
-list-style-image: url(https://cdn0.iconfinder.com/data/icons/iconsweets2/40/whale.png);  // 이미지 아이콘으로 바꿔줌 
-***tip*** 크기 조정이 끝난 이미지를 써야함
+list-style-image: url(https://cdn0.iconfinder.com/data/icons/iconsweets2/40/whale.png);  // 이미지 아이콘으로 바꿔줌    
+***tip*** 크기 조정이 끝난 이미지를 써야함   
 
-list-style-type: lower-alpha; // 소문자 a,b,c
-list-style-type: upper-alpha; // 대문자 A,B,C 
+list-style-type: lower-alpha; // 소문자 a,b,c   
+list-style-type: upper-alpha; // 대문자 A,B,C    
 
 ```
 * caption-side 속성- 표 제목 위치 정하기
