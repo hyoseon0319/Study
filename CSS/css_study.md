@@ -306,11 +306,10 @@ CSS
 list-style-type: none; // 아무런 장식 보여주지 않음 
 
 **1. ul 요소에 어울리는 값**
-```
+
 list-style-type: disc; // ●  (ul 요소의 기본 값)
 list-style-type: circle; // ○
 list-style-type: square; // ■ 
-```
 
 **2. ol 요소에 어울리는 값**
 
